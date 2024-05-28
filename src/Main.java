@@ -15,6 +15,7 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("歡迎使用X");
+        ;
         while (true) {
             System.out.println("輸入您的身份(整數):");
             int id = sc.nextInt();
